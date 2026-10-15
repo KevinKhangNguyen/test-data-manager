@@ -1,11 +1,11 @@
 # Test-Data Manager
 
-Status: not started
+Status: Finished
 
 ## How to run
 
-TODO
+Run: python3 manager.py
 
 ## Your name
 
-TODO
+Kevin Nguyen
